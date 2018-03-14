@@ -1,0 +1,37 @@
+img {
+  float: left;
+  /*width: 100px;*/
+  width:200px;
+}
+
+.wrap-text {
+  width: 75%;
+}
+
+.intro {
+  width: 50%;
+}
+
+.sidebar {
+  width: 20%;
+  height: 1000px;
+  float: right;
+  background-color: yellow;
+}
+
+.column {
+  width: 25%;
+  float: left;
+}
+h1 {
+  width: 80%;
+ border-right: 0px;
+ -webkit-margin-before: 0.0em;
+ -webkit-margin-after: 0.0em;
+ font-size: 3em;
+}
+
+body {
+  background-color: grey;
+  margin: 0px;
+}
